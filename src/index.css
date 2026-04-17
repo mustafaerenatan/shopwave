@@ -21,7 +21,7 @@
            hover:bg-brand-50 hover:-translate-y-0.5;
   }
   .btn-ghost {
-    @apply bg-transparent text-gray-700 font-display font-medium
+    @apply bg-transparent text-surface-700 font-display font-medium
            px-4 py-2 rounded-xl transition-all duration-200
            hover:bg-surface-100;
   }

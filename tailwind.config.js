@@ -27,14 +27,16 @@ export default {
           orange: '#ff6b00',
           violet: '#7c3aed',
         },
+        
         surface: {
-          50: '#fafafa',
-          100: '#f4f4f5',
-          200: '#e4e4e7',
-          800: '#18181b',
-          900: '#09090b',
-          950: '#050505',
-        },
+  50: '#fafafa',
+  100: '#f4f4f5',
+  200: '#e4e4e7',
+  700: '#1c1c1c',  // ekledik
+  800: '#18181b',
+  900: '#09090b',
+  950: '#050505',
+},
       },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
